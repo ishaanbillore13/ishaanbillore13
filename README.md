@@ -1,9 +1,9 @@
 ## Hi there 👋 , I am Ishaan Billore
 A Frontend Developer and a java coding enthusiast.
 
-![](https://komarev.com/ghpvc/?username=ishaan1331&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=ishaanbillore13&color=brightgreen)
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishaan1331" alt="ishaan1331" /></a>
+<a href="https://github.com/ishaanbillore13/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishaanbillore13" alt="ishaanbillore13" /></a>
 
 <h2>Technologies I currently work with : </h2>
 
@@ -27,7 +27,7 @@ A Frontend Developer and a java coding enthusiast.
 
 <h2>Insights</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaan1331&layout=donut)](https://github.com/ishaan1331)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaanbillore13&layout=donut)](https://github.com/ishaanbillore13)
 
 
 <!--
