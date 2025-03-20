@@ -21,7 +21,7 @@ A Frontend Developer and a java coding enthusiast.
 <h2>Connect With Me : </h2>
 
 
-[![My Skills](https://skillicons.dev/icons?i=gmail&perline=10)](mailto:ishaanbillore13@gmail.com)&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=10)](https://www.linkedin.com/in/ishaanbillore/)
+[![My Skills](https://skillicons.dev/icons?i=gmail&perline=10)](mailto:ishaanbillore13@gmail.com)&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=10)](https://www.linkedin.com/in/ishaanbillore13/)
 
 </a>
 
