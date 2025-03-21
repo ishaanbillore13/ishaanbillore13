@@ -13,11 +13,11 @@ A Frontend Developer and a java coding enthusiast.
 | ------------- | ------------- | ------------- |
 | ![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,react,ts,vscode,npm,jquery,bootstrap,mui&perline=4) | ![My Skills](https://skillicons.dev/icons?i=java,mysql,spring,eclipse,postman,maven,git,github,githubactions,idea,selenium&perline=4)| ![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,docker,grafana,prometheus,elasticsearch&perline=4) |
 
-<h2>Technologies/Tools I am currently learning : </h2>
+<h2>Technologies/Tools I am currently learning/interested in : </h2>
 
 | Frontend      | Backend       | Devops        | Hobbies |
 | ------------- | ------------- | ------------- | ------------- |
-| ![My Skills](https://skillicons.dev/icons?i=redux,next,vue,figma,sass,tailwind&perline=4) | ![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)| ![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,azure,gcp,terraform,heroku&perline=4) | ![My Skills](https://skillicons.dev/icons?i=blender,unity,unreal&perline=4) 
+| ![My Skills](https://skillicons.dev/icons?i=redux,next,vue,figma,sass,tailwind,webpack&perline=4) | ![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)| ![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,azure,gcp,terraform,heroku&perline=4) | ![My Skills](https://skillicons.dev/icons?i=blender,unity,unreal&perline=4) 
 
 
 <h2>Connect With Me : </h2>
