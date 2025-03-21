@@ -3,7 +3,7 @@ A Frontend Developer and a java coding enthusiast.
 
 ![](https://komarev.com/ghpvc/?username=ishaanbillore13&color=brightgreen)
 
-<img width = "86.8%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img width = "100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <a href="https://github.com/ishaanbillore13/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishaanbillore13&theme=onestar" alt="ishaanbillore13" /></a>
 
