@@ -3,20 +3,22 @@ A Frontend Developer and a java coding enthusiast.
 
 ![](https://komarev.com/ghpvc/?username=ishaanbillore13&color=brightgreen)
 
-<a href="https://github.com/ishaanbillore13/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishaanbillore13" alt="ishaanbillore13" /></a>
+<img width = "86.8%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-<h2>Technologies I currently work with : </h2>
+<a href="https://github.com/ishaanbillore13/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishaanbillore13&theme=onestar" alt="ishaanbillore13" /></a>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,angular,react,ts,postman,java,kubernetes,maven,mysql,npm,nodejs,spring&perline=10)
+<h2>Technologies and Tools I currently work with : </h2>
 
-<h2>Tools I currently work with : </h2>
+| Frontend      | Backend       | Devops        |
+| ------------- | ------------- | ------------- |
+| ![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,react,ts,vscode,npm,jquery,bootstrap,mui&perline=4) | ![My Skills](https://skillicons.dev/icons?i=java,mysql,spring,eclipse,postman,maven,git,github,githubactions,idea,selenium&perline=4)| ![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,docker,grafana,prometheus,elasticsearch&perline=4) |
 
-![My Skills](https://skillicons.dev/icons?i=docker,eclipse,git,github,githubactions,idea,vscode,grafana,jquery,prometheus,selenium&perline=10)
+<h2>Technologies/Tools I am currently learning : </h2>
 
+| Frontend      | Backend       | Devops        | Hobbies |
+| ------------- | ------------- | ------------- | ------------- |
+| ![My Skills](https://skillicons.dev/icons?i=redux,next,vue,figma,sass,tailwind&perline=4) | ![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)| ![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,azure,gcp,terraform,heroku&perline=4) | ![My Skills](https://skillicons.dev/icons?i=blender,unity,unreal&perline=4) 
 
-<h2>Technologies/Tools I had experience with and I am willing to learn more about : </h2>
-
-![My Skills](https://skillicons.dev/icons?i=aws,docker,azure,gcp,redux,mui,kubernetes,unity,blender,unreal&perline=10)
 
 <h2>Connect With Me : </h2>
 
